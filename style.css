@@ -1,0 +1,53 @@
+* {
+    margin-top: 0px;
+    padding: 5px;
+}
+* h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+* P {
+    margin: 0px;
+}
+.header {
+    background-color: #e8dddd;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0px;
+}
+.header p {
+    margin: 0px;
+}
+.full {
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+}
+.left {
+    background-color: rgb(215, 210, 219);
+    padding-left: 25px;
+    padding-bottom: 40px;
+}
+
+#Education p,h3{
+    margin: 0px;
+}
+
+th,td {
+    border: 1px solid black;
+}
+.ul {
+    list-style-type: decimal;
+}
+
+#carrerObjective h3{
+    margin: 0px;
+}
+.right {
+    background-color: rgb(227, 230, 221);
+    padding-bottom: 40px;
+}
+.contact {
+    font-size: 15px
+}
+
